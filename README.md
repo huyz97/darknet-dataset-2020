@@ -1,7 +1,7 @@
 ## darknet-dataset-2020
 This dataset contains **user behavior** traffic in Tor, I2P, ZeroNet and Freenet.
 
-<img src="pic\fig1.png" alt="image" style="zoom:10%;" />         <img src="pic\fig3.png" alt="image" style="zoom:10%;" /> <img src="pic\fig2.png" alt="image" style="zoom:10%;" /> <img src="pic\fig4.png" alt="image" style="zoom:10%;" /> 
+<img src="pic\fig1.png" alt="image" width="100" />         <img src="pic\fig3.png" alt="image" width="100" /> <img src="pic\fig2.png" alt="image" width="100" /> <img src="pic\fig4.png" alt="image" width="100" /> 
 
 We divide darknet user behaviors in 8 categories: Browsing, Chat, E-mail, Audio-streaming, Video-streaming, File Transfer, P2P and VoIP.  We investigated the commonly used applications in Tor, I2P, ZeroNet, Freenet to simulate various user behaviors.
 
