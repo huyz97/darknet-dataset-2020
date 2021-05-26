@@ -16,8 +16,28 @@ After capturing pcap,  we use CICFlowMeter for feature extraction. Since our use
 
 The original pcap file was not uploaded due to the large file size.  If you need original pcap file for research, please contact us.
 
-### Contact Info
+## Contact Info
 
 Yuzong Hu
 
 huyz97@sjtu.edu.cn
+
+
+
+## Research paper
+We present our approach and the findings of this work in the following research paper:
+
+Y. Hu, F. Zou, L. Li and P. Yi, "Traffic Classification of User Behaviors in Tor, I2P, ZeroNet, Freenet," *2020 IEEE 19th International Conference on Trust, Security and Privacy in Computing and Communications (TrustCom)*, 2020, pp. 418-424, doi: 10.1109/TrustCom50675.2020.00064.
+
+If you use our work in a scientific publication, we would appreciate citations using this Bibtex entry:
+``` tex
+@INPROCEEDINGS{9343185,
+  author={Hu, Yuzong and Zou, Futai and Li, Linsen and Yi, Ping},
+  booktitle={2020 IEEE 19th International Conference on Trust, Security and Privacy in Computing and Communications (TrustCom)}, 
+  title={Traffic Classification of User Behaviors in Tor, I2P, ZeroNet, Freenet}, 
+  year={2020},
+  volume={},
+  number={},
+  pages={418-424},
+  doi={10.1109/TrustCom50675.2020.00064}}
+```
