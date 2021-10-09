@@ -14,7 +14,11 @@ After capturing pcap,  we use CICFlowMeter for feature extraction. Since our use
 | ZeroNet |   7972   | 1531 |  352  |     2157      | 1394 |  820  | 1251  |  -   | 15477 |
 | Freenet |   4990   | 1123 | 2980  |     4897      |  -   |   -   | 2397  |  -   | 16387 |
 
-The original pcap file was not uploaded due to the large file size.  If you need original pcap file for research, please contact us.
+
+## Dataset
+
+Original Pcap Datasets: Google drive -
+[download](https://drive.google.com/file/d/1mjbb_aHjUHHwsoGkE-Bl9xqdMN4x_4JJ/view?usp=sharing)
 
 ## Contact Info
 
